@@ -1,2 +1,2 @@
-# easy-animation
-Easy animation using html and css
+# cool-animation
+Cool animation using html and css
